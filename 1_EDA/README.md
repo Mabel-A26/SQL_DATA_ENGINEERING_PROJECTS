@@ -1,6 +1,6 @@
 # Exploratory Data Analysis with SQL: Job Market Analysis
 
-![Project 1 Overview](../Images\1_1_Project1_EDA.png)
+![Project 1 Overview](../Images/1_1_Project1_EDA.png)
 
 This SQL project analyzes real data engineering job market trends to determine which skills provide the strongest career value based on demand and compensation. It demonstrates my ability to write **production-quality analytical SQL, design efficient queries, and translate stakeholder questions into actionable, data-driven insights**.
 
